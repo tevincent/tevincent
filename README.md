@@ -1,13 +1,8 @@
 # Hey there 👋, I'm Vincent Te
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/tevincent/count.svg" alt="Visitor's Count" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tevincent&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tevincent" /> </p>
 
 A Mobile Developer focused on all things Android !
-
-![](https://github-profile-trophy.vercel.app/?username=tevincent)
 
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
 
