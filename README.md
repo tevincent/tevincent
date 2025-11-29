@@ -6,9 +6,8 @@ A Mobile Developer focused on all things Android !
 
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tevincent&show_icons=true&locale=en" alt="tevincent" /></p>
-</div>
+  ![Metrics](/github-metrics.svg)
+  
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tevincent&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
